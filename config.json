@@ -1,0 +1,9 @@
+{
+  "740156680809087078": {
+    "onoff": true,
+    "time": "2",
+    "chaDelLimit": "3",
+    "banLimit": "3",
+    "roleDelLimit": "2"
+  }
+}
